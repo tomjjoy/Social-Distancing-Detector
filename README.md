@@ -1,8 +1,10 @@
 # Social_Distancing_Detector
+## A Social Distancing Detector using Computer Vision
 ## Motivations
 
 
-As COVID-19 begins to spike again all over the country, it is more important than ever to continue to social distance from people outside of your household. A tool that can be used by law enforcement agencies, public health care agencies, and others is a social distancing detector. Utilizing YOLOv5, I created a Fully Convolutional neural network (FCNN) that does just that. 
+As COVID-19 begins to spike again all over the country, it is more important than ever to continue to social distance from people outside of your household. A tool that can be used by law enforcement agencies, public health care agencies, etc. would be a social distancing detector. Utilizing YOLOv5, I created a Fully Convolutional neural network (FCNN) that does just that in real time. 
+
 
 
 ## Datasets
