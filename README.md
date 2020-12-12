@@ -29,7 +29,7 @@ As COVID-19 begins to spike again all over the country, it is more important tha
     * child
     
 * Testing Data
-  * Consists of 200 images
+  * Consists of 20 images
   * Web Scapped off Google Image Manually
   
   
