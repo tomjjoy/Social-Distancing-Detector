@@ -92,7 +92,7 @@ Simply put, you take the known height of an object, in my case I used a traffic 
 
 Just like in College Algebra, you use the distance formula but in this case you multiply it by the PPM we got above.
 
-![image info](img/Screen\ Shot\ 2020-12-04\ at\ 12.44.40\ PM.png)
+![image info](img/distance.png)
 
 ### Step 3: Calculating the Average
 
@@ -131,4 +131,4 @@ Yolov5 is the newest version of YOLO, which is a real-time object detection fram
 ## Contact Info
 Any questions or comments, please feel free to get in touch with me via one of the following options
 * Email: tomjjoy123@gmail.com
-* LinkedIn: [title]linkedin.com/in/thomas-joy-ii
+* LinkedIn: linkedin.com/in/thomas-joy-ii
