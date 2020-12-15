@@ -108,13 +108,15 @@ After running through all bounding boxes in the image and calculating the distan
 
 ## Implementation onto Video Stream
 
+After having the model run through single images, I then implemented it onto a video stream.
+
 ![image info](img/present_gif.gif)
 
 ## Next Steps
 
 As you can see, my model mis-classified certain objects. Future steps I plan to take to improve this model are:
 
-* Collect more training and validatio data to make the model more precise.
+* Collect more training and validation data to make the model more precise.
 * Get information of video camera from virat to deal with depth issue on a 3D plane.
 * Implement more categories to prevent the mismatching of objects.
 * Add a object detector for face mask to see if people are following mask laws.
